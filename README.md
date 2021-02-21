@@ -29,7 +29,7 @@ https://api.weather.gov/gridpoints/DTX/51,29/forecast/hourly
 
 ## Sample code using the webhook
 
-https://github.com/a2mm-iot-hackathon/iot-samples/blob/master/Weather-ring-MVP/weather-ring.ino
+https://github.com/iot-maker1/weather-ring/blob/master/weather-ring.ino
 
 
 
