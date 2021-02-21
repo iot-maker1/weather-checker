@@ -37,9 +37,13 @@ https://github.com/iot-maker1/weather-ring/blob/master/weather-ring.ino
 
 ###Extracting temperature
 
-Trial 1
+Trial 1 
 
 `{{properties}}{{periods}}~{{temperature}}~{{/periods}}{{/properties}}`
+
+with escape characters
+
+`{{properties}}{{periods}}\~{{temperature}}\~{{/periods}}{{/properties}}`
 
 Finalized Moustache Template to extract JSON data from the link - 
 https://api.weather.gov/gridpoints/DTX/46,29/forecast/hourly
