@@ -7,7 +7,7 @@ The weather-ring learns from an external resource available on the web. It used 
 
 ![Weather-Ring](https://github.com/a2mm-iot-hackathon/iot-samples/blob/master/Weather-ring-MVP/weather-ring.gif)
 
-![Weather-Ring-Architecture](https://github.com/a2mm-iot-hackathon/iot-samples/blob/master/Weather-ring-MVP/weather-ring-arch.jpg)
+![Weather-Ring-Architecture](https://github.com/iot-maker1/weather-ring/blob/master/weather-ring-arch.jpg)
 
 ## API instructions and info for weather.gov
 
@@ -41,7 +41,7 @@ Trial 1
 
 `{{properties}}{{periods}}~{{temperature}}~{{/periods}}{{/properties}}`
 
-with escape characters
+With escape characters
 
 `{{properties}}{{periods}}\~{{temperature}}\~{{/periods}}{{/properties}}`
 
